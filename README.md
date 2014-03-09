@@ -1,6 +1,8 @@
 
 # korg-nanokontrol-linux #
 
+![Screenshot](/cepr/korg-nanokontrol-linux/raw/master/korg-nanokontrol-linux-screenshot.png)
+
 ## Presentation ##
 
 korg-nanokontrol-linux is a monitoring tool for the KORG nanoKONTROL USB
