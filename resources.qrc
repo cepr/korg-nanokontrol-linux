@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.png</file>
+        <file>slider.png</file>
+        <file>potar.png</file>
+        <file>button.png</file>
+        <file>icon.jpg</file>
+    </qresource>
+</RCC>
