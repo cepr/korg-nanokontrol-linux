@@ -1,7 +1,7 @@
 
 # korg-nanokontrol-linux #
 
-![Screenshot](/cepr/korg-nanokontrol-linux/raw/master/korg-nanokontrol-linux-screenshot.png)
+![Screenshot](korg-nanokontrol-linux-screenshot.png)
 
 ## Presentation ##
 
